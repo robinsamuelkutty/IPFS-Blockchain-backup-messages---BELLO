@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "67dfdd093a5c9287dfebe37f",
+    "senderId": "2ac418c2e49df3610f16a6e332e21273cbca52edc5801e9221f2f3a13ccec40a",
+    "receiverId": "eb3558f2173c00cee23b7a4b663294726e620eac47ec76be69e6b05df66ecc5c",
+    "text": "da",
+    "replyTo": null,
+    "createdAt": "2025-03-23T10:06:01.022Z",
+    "updatedAt": "2025-03-23T10:06:01.022Z",
+    "__v": 0,
+    "originalSenderId": "67a3aa6e1760b2242598a63f",
+    "originalReceiverId": "67a6f9408b07d53823875e1f"
+  }
+]
